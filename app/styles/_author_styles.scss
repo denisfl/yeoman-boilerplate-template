@@ -1,0 +1,4 @@
+.container {
+  width: $containerWidth;
+  @include container-fixed;
+}
