@@ -2,10 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca50ac4-93ea-45f2-bebd-111368eb4de3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/_author_styles.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/07dba25abeb91914a9ea5f2589db5eed3fed6608/main.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/18b78e3a429c992df2311f5595ea5c804077e4f5/_grid-background.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/1ab6d220587f221a267c19d4eab5acd6d0a53f5a/_ellipsis.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/1ab6d220587f221a267c19d4eab5acd6d0a53f5a/_force-wrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/1ab6d220587f221a267c19d4eab5acd6d0a53f5a/_nowrap.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/1ab6d220587f221a267c19d4eab5acd6d0a53f5a/_replacement.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_author_styles.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_grid.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_mixins.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_normalize.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_responsive-utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_type.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/_variables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/2d4fc0ece157272e6fa00c18f4c4ffd6f11ebe31/main.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/45e524fce71f373671e42a3836c9433972956d52/_clearfix.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/45e524fce71f373671e42a3836c9433972956d52/_float.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/45e524fce71f373671e42a3836c9433972956d52/_hacks.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/45e524fce71f373671e42a3836c9433972956d52/_min.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/45e524fce71f373671e42a3836c9433972956d52/_reset.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/45e524fce71f373671e42a3836c9433972956d52/_tag-cloud.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/5b7097cb6096cc9c7480ff473723f5a22dbf5575/_base.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/5b7097cb6096cc9c7480ff473723f5a22dbf5575/_sprite-img.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/80486efadd27043710a815a7dc2dca01d4f267d7/_alternating-rows-and-columns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/80486efadd27043710a815a7dc2dca01d4f267d7/_borders.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/80486efadd27043710a815a7dc2dca01d4f267d7/_scaffolding.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_appearance.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_background-clip.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_background-origin.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_background-size.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_border-radius.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_box-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_box-sizing.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_box.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_columns.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_filter.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_font-face.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_hyphenation.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_images.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_inline-block.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_opacity.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_regions.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_shared.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_text-shadow.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_transform.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/89fe29d585a33bebb083b0cd091a1227802ac71b/_transition.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/92004c90e8ccf55f826378d1175f41892adc95e2/_css3.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/92004c90e8ccf55f826378d1175f41892adc95e2/_support.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/92004c90e8ccf55f826378d1175f41892adc95e2/_typography.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/92004c90e8ccf55f826378d1175f41892adc95e2/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/93f7f16b58328d38c4a0f1d1c9a6ca435e7c594a/_contrast.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/af270a63bacfc3285c2b257ab883415ac30419ac/_color.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/af270a63bacfc3285c2b257ab883415ac30419ac/_general.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/af270a63bacfc3285c2b257ab883415ac30419ac/_sprites.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/af270a63bacfc3285c2b257ab883415ac30419ac/_tables.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/d257ff0c8bf8fd2a7d97eaceaa8317c69079e477/_bullets.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/d257ff0c8bf8fd2a7d97eaceaa8317c69079e477/_horizontal-list.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/d257ff0c8bf8fd2a7d97eaceaa8317c69079e477/_inline-block-list.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/d257ff0c8bf8fd2a7d97eaceaa8317c69079e477/_inline-list.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/ebf12bd9c28a72649348e3c19d8a49a65ff3aa83/_compass.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f1c218e840b8a0483885ad6c3d7f3ba1a744c972/_hover-link.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f1c218e840b8a0483885ad6c3d7f3ba1a744c972/_link-colors.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f1c218e840b8a0483885ad6c3d7f3ba1a744c972/_unstyled-link.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/f50d79f63dea4864b89549deefab8af7c4f203f6/_utilities.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/fa55aaf32e0bce2f860caf5eaba64588b575b563/_links.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/fa55aaf32e0bce2f860caf5eaba64588b575b563/_lists.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/fa55aaf32e0bce2f860caf5eaba64588b575b563/_text.scssc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.sass-cache/fa55aaf32e0bce2f860caf5eaba64588b575b563/_vertical_rhythm.scssc" afterPath="" />
     </list>
     <ignored path="test2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,7 +117,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="9" selection-start="140" selection-end="140" vertical-scroll-proportion="0.2781457">
+            <state line="24" column="19" selection-start="245" selection-end="245" vertical-scroll-proportion="0.47682118">
               <folding />
             </state>
           </provider>
@@ -200,12 +271,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="739" y="130" width="1152" height="851" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6700767" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6700767" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -368,7 +439,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="140" selection-end="140" vertical-scroll-proportion="0.2781457">
+        <state line="24" column="19" selection-start="245" selection-end="245" vertical-scroll-proportion="0.47682118">
           <folding />
         </state>
       </provider>
